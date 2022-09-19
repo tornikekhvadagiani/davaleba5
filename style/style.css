@@ -75,16 +75,41 @@ p {
   margin: auto;
 }
 h5{
-  display: inline;
+  display: inline-block;
   color: white;
   border-radius: 28px;
   border: solid blue;
   background-color: blue;
   margin-left: 335px;
+  font-family: "ALK Life", sans-serif;
+  
+
 }
 footer{
-  width: 1080px;
+  height:  1080px;
   background-color: blue;
+  margin-top: 50px;
 }
+.footertitle {
+  color: white;
+  padding-left:   240px;
+  padding-top: 275px;
+  margin: 15px;
 
+}
+.pwidth{
+  width: 463px; 
+}
+.inline{
+  display: inline-block;
+  color: white;
+  padding-left:   240px;
+  margin: 15px;
+}
+.footerparagraf{
+  padding-top:70px;
+  padding-left:   240px;
+  color: white;
+
+}
 
